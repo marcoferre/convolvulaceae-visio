@@ -164,9 +164,9 @@ cv1 = np.zeros(1000)
 for pi, p in enumerate(chromasort[:num_classes]):
     
     if num_classes < 12:
-        cv1[classes[pi]] = chroma[p][np.min([np.where(chrow>0)[0][0] for chrow in chroma])]       
+        cv1[classes[pi]] = chroma[p][np.min([np.where(chrow > 0)[0][0] for chrow in chroma])]
     else:
-        cv1[classes[p]] = chroma[p][np.min([np.where(chrow>0)[0][0] for chrow in chroma])]
+        cv1[classes[p]] = chroma[p][np.min([np.where(chrow > 0)[0][0] for chrow in chroma])]
 
 # Initialize first noise vector
 nv1 = truncated_noise_sample(truncation=truncation)[0]
