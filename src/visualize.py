@@ -8,7 +8,7 @@ import torch
 # from scipy.misc import toimage
 from tqdm import tqdm
 from pytorch_pretrained_biggan import (BigGAN, one_hot_from_names, truncated_noise_sample,
-                                       save_as_images, display_in_terminal)
+                                       save_as_images, display_in_terminal, convert_to_images)
 
 # Get input arguments
 parser = argparse.ArgumentParser()
@@ -376,10 +376,9 @@ for i in tqdm(range(frame_lim)):
     # print(output_cpu.shape)
 
     # Convert to image array and add to frames
-    for out in output_cpu:
-        print(out.shape)
-        im = np.array(Image.fromarray(np.asarray(out.transpose(1, 2, 0)), 'RGB'))
-        # im = np.array(toimage(out))
+    outputs = convert_to_images(output_cpu)
+    for out in outputs:
+        im = np.array(out)
         frames.append(im)
 
     # Empty cuda cache
