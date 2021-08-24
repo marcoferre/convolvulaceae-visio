@@ -1,0 +1,1001 @@
+Id,Class,WordBRM,V.Mean.Sum,A.Mean.Sum
+0, tench Tinca tinca,,,
+1,goldfish | Carassius auratus,goldfish,6.62,2.95
+2,great white shark | white shark | man-eater | man-eating shark | Carcharodon carcharias,great,7.5,4.14
+3,tiger shark | Galeocerdo cuvieri,tiger,6.0,5.55
+4,hammerhead | hammerhead shark,hammerhead,4.63,4.43
+5,electric ray | crampfish | numbfish | torpedo,electric,6.1,4.05
+6, stingray,,,
+7,cock,cock,5.05,5.74
+8,hen,hen,6.14,3.39
+9,ostrich | Struthio camelus,ostrich,5.16,3.87
+10, brambling Fringilla montifringilla,,,
+11, goldfinch Carduelis carduelis,,,
+12,house finch | linnet | Carpodacus mexicanus,house,7.19,3.95
+13, junco snowbird,,,
+14,indigo bunting | indigo finch | indigo bird | Passerina cyanea,finch,4.74,3.52
+15,robin | American robin | Turdus migratorius,robin,6.63,2.64
+16, bulbul,,,
+17, jay,,,
+18,magpie,magpie,5.5,3.08
+19, chickadee,,,
+20,water ouzel | dipper,water,7.0,3.71
+21,kite,kite,6.9,4.2
+22,bald eagle | American eagle | Haliaeetus leucocephalus,bald,2.85,3.71
+23,vulture,vulture,3.23,5.0
+24,great grey owl | great gray owl | Strix nebulosa,great,7.5,4.14
+25,European fire salamander | Salamandra salamandra,fire,4.32,6.05
+26,common newt | Triturus vulgaris,common,5.94,2.43
+27, eft,,,
+28, spotted salamander Ambystoma maculatum,,,
+29,axolotl | mud puppy | Ambystoma mexicanum,mud,5.06,3.19
+30,bullfrog | Rana catesbeiana,bullfrog,5.05,2.88
+31,tree frog | tree-frog,tree,7.59,2.67
+32,tailed frog | bell toad | ribbed toad | tailed toad | Ascaphus trui,frog,5.84,4.07
+33,loggerhead | loggerhead turtle | Caretta caretta,turtle,6.16,2.52
+34,leatherback turtle | leatherback | leathery turtle | Dermochelys coriacea,turtle,6.16,2.52
+35,mud turtle,mud,5.06,3.19
+36, terrapin,,,
+37,box turtle | box tortoise,box,5.33,2.67
+38, banded gecko,,,
+39,common iguana | iguana | Iguana iguana,common,5.94,2.43
+40,American chameleon | anole | Anolis carolinensis,chameleon,6.3,4.19
+41,whiptail | whiptail lizard,lizard,5.43,5.5
+42, agama,,,
+43,frilled lizard | Chlamydosaurus kingi,lizard,5.43,5.5
+44,alligator lizard,alligator,4.23,5.36
+45,Gila monster | Heloderma suspectum,monster,2.55,5.55
+46,green lizard | Lacerta viridis,green,6.29,4.07
+47,African chameleon | Chamaeleo chamaeleon,chameleon,6.3,4.19
+48,Komodo dragon | Komodo lizard | dragon lizard | giant lizard | Varanus komodoensis,dragon,6.68,5.45
+49,African crocodile | Nile crocodile | Crocodylus niloticus,crocodile,3.15,6.48
+50,American alligator | Alligator mississipiensis,alligator,4.23,5.36
+51, triceratops,,,
+52,thunder snake | worm snake | Carphophis amoenus,thunder,5.74,5.75
+53,ringneck snake | ring-necked snake | ring snake,snake,4.03,7.24
+54,hognose snake | puff adder | sand viper,snake,4.03,7.24
+55,green snake | grass snake,green,6.29,4.07
+56,king snake | kingsnake,king,6.0,4.45
+57,garter snake | grass snake,garter,5.47,4.35
+58,water snake,water,7.0,3.71
+59,vine snake,vine,6.39,2.7
+60,night snake | Hypsiglena torquata,night,6.68,3.57
+61,boa constrictor | Constrictor constrictor,boa,3.63,5.23
+62,rock python | rock snake | Python sebae,rock,5.72,3.14
+63,Indian cobra | Naja naja,cobra,4.42,5.71
+64,green mamba,green,6.29,4.07
+65,sea snake,sea,6.56,2.8
+66,horned viper | cerastes | sand viper | horned asp | Cerastes cornutus,horned,4.2,4.61
+67,diamondback | diamondback rattlesnake | Crotalus adamanteus,rattlesnake,3.37,5.33
+68,sidewinder | horned rattlesnake | Crotalus cerastes,sidewinder,4.26,5.09
+69, trilobite,,,
+70,harvestman | daddy longlegs | Phalangium opilio,daddy,7.27,4.24
+71,scorpion,scorpion,3.68,6.45
+72,black and gold garden spider | Argiope aurantia,black,5.4,3.58
+73,barn spider | Araneus cavaticus,barn,6.16,3.57
+74,garden spider | Aranea diademata,garden,7.25,3.71
+75,black widow | Latrodectus mactans,black,5.4,3.58
+76,tarantula,tarantula,3.37,6.76
+77,wolf spider | hunting spider,wolf,6.26,5.25
+78,tick,tick,3.05,3.82
+79,centipede,centipede,3.95,4.82
+80,black grouse,black,5.4,3.58
+81, ptarmigan,,,
+82,ruffed grouse | partridge | Bonasa umbellus,grouse,3.73,4.05
+83,prairie chicken | prairie grouse | prairie fowl,prairie,5.33,2.41
+84, peacock,,,
+85,quail,quail,5.43,2.67
+86,partridge,partridge,5.95,3.15
+87,African grey | African gray | Psittacus erithacus,gray,3.68,2.81
+88, macaw,,,
+89, sulphur-crested cockatoo Kakatoe galerita Cacatua galerita,,,
+90, lorikeet,,,
+91, coucal,,,
+92,bee eater,bee,3.68,5.65
+93, hornbill,,,
+94,hummingbird,hummingbird,6.74,4.68
+95, jacamar,,,
+96, toucan,,,
+97,drake,drake,5.05,4.32
+98, red-breasted merganser Mergus serrator,,,
+99,goose,goose,5.68,3.29
+100,black swan | Cygnus atratus,black,5.4,3.58
+101, tusker,,,
+102, echidna spiny anteater anteater,,,
+103, platypus duckbill duckbilled platypus duck-billed platypus Ornithorhynchus anatinus,,,
+104,wallaby | brush kangaroo,wallaby,5.9,2.91
+105,koala | koala bear | kangaroo bear | native bear | Phascolarctos cinereus,koala,6.65,3.73
+106, wombat,,,
+107,jellyfish,jellyfish,4.9,3.73
+108,sea anemone | anemone,sea,6.56,2.8
+109,brain coral,brain,6.22,3.35
+110, flatworm platyhelminth,,,
+111,nematode | nematode worm | roundworm,worm,4.86,3.5
+112,conch,conch,5.37,3.48
+113,snail,snail,4.52,3.05
+114,slug,slug,3.16,4.9
+115,sea slug | nudibranch,sea,6.56,2.8
+116,chiton | coat-of-mail shell | sea cradle | polyplacophore,shell,6.05,3.23
+117,chambered nautilus | pearly nautilus | nautilus,nautilus,5.29,3.76
+118,Dungeness crab | Cancer magister,crab,5.81,4.13
+119,rock crab | Cancer irroratus,rock,5.72,3.14
+120,fiddler crab,fiddler,5.62,3.87
+121,king crab | Alaska crab | Alaskan king crab | Alaska king crab | Paralithodes camtschatica,king,6.0,4.45
+122,American lobster | Northern lobster | Maine lobster | Homarus americanus,lobster,6.43,4.67
+123,spiny lobster | langouste | rock lobster | crawfish | crayfish | sea crawfish,lobster,6.43,4.67
+124, crayfish crawfish crawdad crawdaddy,,,
+125,hermit crab,hermit,4.1,3.88
+126, isopod,,,
+127,white stork | Ciconia ciconia,white,6.18,3.35
+128,black stork | Ciconia nigra,black,5.4,3.58
+129, spoonbill,,,
+130,flamingo,flamingo,6.74,4.59
+131,little blue heron | Egretta caerulea,little,5.91,4.2
+132,American egret | great white heron | Egretta albus,great,7.5,4.14
+133, bittern,,,
+134, crane,,,
+135, limpkin Aramus pictus,,,
+136, European gallinule Porphyrio porphyrio,,,
+137,American coot | marsh hen | mud hen | water hen | Fulica americana,hen,6.14,3.39
+138, bustard,,,
+139,ruddy turnstone | Arenaria interpres,ruddy,4.65,4.33
+140, red-backed sandpiper dunlin Erolia alpina,,,
+141, redshank Tringa totanus,,,
+142, dowitcher,,,
+143,oystercatcher | oyster catcher,oyster,4.81,3.11
+144,pelican,pelican,6.21,3.55
+145,king penguin | Aptenodytes patagonica,king,6.0,4.45
+146,albatross | mollymawk,albatross,5.68,3.09
+147,grey whale | gray whale | devilfish | Eschrichtius gibbosus | Eschrichtius robustus,whale,5.81,4.2
+148,killer whale | killer | orca | grampus | sea wolf | Orcinus orca,killer,1.74,7.05
+149, dugong Dugong dugon,,,
+150,sea lion,sea,6.56,2.8
+151, Chihuahua,,,
+152,Japanese spaniel,spaniel,5.67,4.15
+153,Maltese dog | Maltese terrier | Maltese,dog,7.0,5.43
+154, Pekinese Pekingese Peke,,,
+155, Shih-Tzu,,,
+156,Blenheim spaniel,spaniel,5.67,4.15
+157, papillon,,,
+158,toy terrier,toy,7.29,4.29
+159, Rhodesian ridgeback,,,
+160,Afghan hound | Afghan,hound,5.3,4.27
+161,basset | basset hound,hound,5.3,4.27
+162, beagle,,,
+163,bloodhound | sleuthhound,bloodhound,5.0,4.59
+164, bluetick,,,
+165, black-and-tan coonhound,,,
+166,Walker hound | Walker foxhound,hound,5.3,4.27
+167, English foxhound,,,
+168, redbone,,,
+169, borzoi Russian wolfhound,,,
+170, Irish wolfhound,,,
+171,Italian greyhound,greyhound,5.95,3.9
+172, whippet,,,
+173,Ibizan hound | Ibizan Podenco,hound,5.3,4.27
+174, Norwegian elkhound elkhound,,,
+175,otterhound | otter hound,otter,6.95,4.42
+176,Saluki | gazelle hound,gazelle,6.47,4.05
+177, Scottish deerhound deerhound,,,
+178, Weimaraner,,,
+179,Staffordshire bullterrier | Staffordshire bull terrier,bull,3.95,4.9
+180,American Staffordshire terrier | Staffordshire terrier | American pit bull terrier | pit bull terrier,terrier,6.2,3.75
+181,Bedlington terrier,terrier,6.2,3.75
+182,Border terrier,terrier,6.2,3.75
+183,Kerry blue terrier,blue,6.53,3.69
+184,Irish terrier,terrier,6.2,3.75
+185,Norfolk terrier,terrier,6.2,3.75
+186,Norwich terrier,terrier,6.2,3.75
+187,Yorkshire terrier,terrier,6.2,3.75
+188,wire-haired fox terrier,fox,5.52,4.36
+189,Lakeland terrier,terrier,6.2,3.75
+190,Sealyham terrier | Sealyham,terrier,6.2,3.75
+191,Airedale | Airedale terrier,terrier,6.2,3.75
+192,cairn | cairn terrier,terrier,6.2,3.75
+193,Australian terrier,terrier,6.2,3.75
+194,Dandie Dinmont | Dandie Dinmont terrier,terrier,6.2,3.75
+195,Boston bull | Boston terrier,bull,3.95,4.9
+196,miniature schnauzer,miniature,6.11,3.95
+197,giant schnauzer,giant,5.41,5.1
+198,standard schnauzer,standard,4.76,3.61
+199,Scotch terrier | Scottish terrier | Scottie,terrier,6.2,3.75
+200,Tibetan terrier | chrysanthemum dog,terrier,6.2,3.75
+201,silky terrier | Sydney silky,silky,7.0,3.73
+202,soft-coated wheaten terrier,terrier,6.2,3.75
+203,West Highland white terrier,white,6.18,3.35
+204, Lhasa Lhasa apso,,,
+205,flat-coated retriever,retriever,5.26,4.27
+206,curly-coated retriever,retriever,5.26,4.27
+207,golden retriever,golden,7.79,4.25
+208,Labrador retriever,retriever,5.26,4.27
+209,Chesapeake Bay retriever,retriever,5.26,4.27
+210,German short-haired pointer,pointer,4.57,3.73
+211,vizsla | Hungarian pointer,pointer,4.57,3.73
+212, English setter,,,
+213,Irish setter | red setter,red,5.67,5.02
+214, Gordon setter,,,
+215,Brittany spaniel,spaniel,5.67,4.15
+216,clumber | clumber spaniel,spaniel,5.67,4.15
+217,English springer | English springer spaniel,spaniel,5.67,4.15
+218,Welsh springer spaniel,spaniel,5.67,4.15
+219,cocker spaniel | English cocker spaniel | cocker,spaniel,5.67,4.15
+220,Sussex spaniel,spaniel,5.67,4.15
+221,Irish water spaniel,water,7.0,3.71
+222, kuvasz,,,
+223, schipperke,,,
+224, groenendael,,,
+225, malinois,,,
+226, briard,,,
+227, kelpie,,,
+228, komondor,,,
+229,Old English sheepdog | bobtail,sheepdog,6.4,3.91
+230,Shetland sheepdog | Shetland sheep dog | Shetland,sheepdog,6.4,3.91
+231,collie,collie,6.8,3.68
+232,Border collie,collie,6.8,3.68
+233, Bouvier des Flandres Bouviers des Flandres,,,
+234, Rottweiler,,,
+235,German shepherd | German shepherd dog | German police dog | alsatian,shepherd,5.75,3.05
+236, Doberman Doberman pinscher,,,
+237,miniature pinscher,miniature,6.11,3.95
+238,Greater Swiss Mountain dog,dog,7.0,5.43
+239,Bernese mountain dog,mountain,6.65,4.12
+240, Appenzeller,,,
+241, EntleBucher,,,
+242,boxer,boxer,5.21,4.14
+243,bull mastiff,bull,3.95,4.9
+244, Tibetan mastiff,,,
+245,French bulldog,bulldog,4.74,3.72
+246, Great Dane,,,
+247, Saint Bernard St Bernard,,,
+248,Eskimo dog | husky,dog,7.0,5.43
+249, malamute malemute Alaskan malamute,,,
+250,Siberian husky,husky,5.29,3.71
+251,dalmatian | coach dog | carriage dog,coach,5.72,3.35
+252,affenpinscher | monkey pinscher | monkey dog,monkey,5.82,5.15
+253, basenji,,,
+254,pug | pug-dog,pug,5.9,3.55
+255, Leonberg,,,
+256,Newfoundland | Newfoundland dog,dog,7.0,5.43
+257, Great Pyrenees,,,
+258, Samoyed Samoyede,,,
+259, Pomeranian,,,
+260,chow | chow chow,chow,6.16,4.17
+261, keeshond,,,
+262, Brabancon griffon,,,
+263, Pembroke Pembroke Welsh corgi,,,
+264, Cardigan Cardigan Welsh corgi,,,
+265,toy poodle,toy,7.29,4.29
+266,miniature poodle,miniature,6.11,3.95
+267,standard poodle,standard,4.76,3.61
+268,Mexican hairless,hairless,4.45,5.2
+269,timber wolf | grey wolf | gray wolf | Canis lupus,timber,4.9,3.73
+270,white wolf | Arctic wolf | Canis lupus tundrarum,white,6.18,3.35
+271,red wolf | maned wolf | Canis rufus | Canis niger,red,5.67,5.02
+272,coyote | prairie wolf | brush wolf | Canis latrans,coyote,4.05,5.55
+273,dingo | warrigal | warragal | Canis dingo,dingo,5.65,4.25
+274, dhole Cuon alpinus,,,
+275,African hunting dog | hyena dog | Cape hunting dog | Lycaon pictus,hunting,4.75,3.71
+276,hyena | hyaena,hyena,4.64,4.63
+277,red fox | Vulpes vulpes,red,5.67,5.02
+278,kit fox | Vulpes macrotis,kit,6.1,3.68
+279,Arctic fox | white fox | Alopex lagopus,fox,5.52,4.36
+280,grey fox | gray fox | Urocyon cinereoargenteus,fox,5.52,4.36
+281,tabby | tabby cat,cat,6.95,4.5
+282,tiger cat,tiger,6.0,5.55
+283,Persian cat,cat,6.95,4.5
+284,Siamese cat | Siamese,cat,6.95,4.5
+285,Egyptian cat,cat,6.95,4.5
+286,cougar | puma | catamount | mountain lion | painter | panther | Felis concolor,cougar,5.67,5.7
+287, lynx catamount,,,
+288,leopard | Panthera pardus,leopard,6.43,6.26
+289,snow leopard | ounce | Panthera uncia,snow,6.78,4.57
+290,jaguar | panther | Panthera onca | Felis onca,jaguar,5.63,5.55
+291,lion | king of beasts | Panthera leo,lion,5.84,5.29
+292,tiger | Panthera tigris,tiger,6.0,5.55
+293,cheetah | chetah | Acinonyx jubatus,cheetah,6.27,5.31
+294,brown bear | bruin | Ursus arctos,brown,5.52,3.32
+295,American black bear | black bear | Ursus americanus | Euarctos americanus,black,5.4,3.58
+296,ice bear | polar bear | Ursus Maritimus | Thalarctos maritimus,ice,6.06,3.3
+297,sloth bear | Melursus ursinus | Ursus ursinus,sloth,4.05,2.9
+298,mongoose,mongoose,4.95,3.55
+299, meerkat mierkat,,,
+300,tiger beetle,tiger,6.0,5.55
+301,ladybug | ladybeetle | lady beetle | ladybird | ladybird beetle,ladybug,6.9,3.45
+302,ground beetle | carabid beetle,ground,5.28,2.35
+303,long-horned beetle | longicorn | longicorn beetle,beetle,4.2,4.45
+304,leaf beetle | chrysomelid,leaf,6.16,3.05
+305,dung beetle,dung,3.86,3.45
+306,rhinoceros beetle,rhinoceros,6.0,4.47
+307, weevil,,,
+308,fly,fly,6.06,4.9
+309,bee,bee,3.68,5.65
+310,ant | emmet | pismire,ant,3.9,3.27
+311,grasshopper | hopper,grasshopper,6.05,4.43
+312,cricket,cricket,5.71,3.22
+313,walking stick | walkingstick | stick insect,stick,5.27,3.81
+314,cockroach | roach,cockroach,2.46,5.22
+315,mantis | mantid,mantis,4.95,3.25
+316, cicada cicala,,,
+317, leafhopper,,,
+318,lacewing | lacewing fly,fly,6.06,4.9
+319,dragonfly | darning needle | devil's darning needle | sewing needle | snake feeder | snake doctor | mosquito hawk | skeeter hawk,dragonfly,6.45,3.86
+320, damselfly,,,
+321,admiral,admiral,4.8,4.05
+322,ringlet | ringlet butterfly,butterfly,7.23,3.2
+323,monarch | monarch butterfly | milkweed butterfly | Danaus plexippus,monarch,4.33,3.41
+324,cabbage butterfly,cabbage,4.6,2.91
+325,sulphur butterfly | sulfur butterfly,butterfly,7.23,3.2
+326,lycaenid | lycaenid butterfly,butterfly,7.23,3.2
+327,starfish | sea star,starfish,6.53,4.23
+328,sea urchin,sea,6.56,2.8
+329,sea cucumber | holothurian,sea,6.56,2.8
+330,wood rabbit | cottontail | cottontail rabbit,wood,5.82,3.5
+331,hare,hare,6.61,2.74
+332,Angora | Angora rabbit,rabbit,7.21,3.98
+333,hamster,hamster,5.88,4.0
+334,porcupine | hedgehog,porcupine,6.38,4.95
+335,fox squirrel | eastern fox squirrel | Sciurus niger,fox,5.52,4.36
+336, marmot,,,
+337,beaver,beaver,5.0,4.05
+338,guinea pig | Cavia cobaya,guinea,5.5,3.48
+339, sorrel,,,
+340,zebra,zebra,6.47,3.9
+341,hog | pig | grunter | squealer | Sus scrofa,hog,4.55,2.9
+342,wild boar | boar | Sus scrofa,wild,5.94,5.9
+343, warthog,,,
+344,hippopotamus | hippo | river horse | Hippopotamus amphibius,hippopotamus,6.38,4.17
+345,ox,ox,4.95,3.82
+346,water buffalo | water ox | Asiatic buffalo | Bubalus bubalis,water,7.0,3.71
+347, bison,,,
+348,ram | tup,ram,4.37,4.5
+349,bighorn | bighorn sheep | cimarron | Rocky Mountain bighorn | Rocky Mountain sheep | Ovis canadensis,bighorn,4.77,4.65
+350, ibex Capra ibex,,,
+351, hartebeest,,,
+352, impala Aepyceros melampus,,,
+353,gazelle,gazelle,6.47,4.05
+354,Arabian camel | dromedary | Camelus dromedarius,camel,5.29,3.1
+355,llama,llama,5.43,4.04
+356,weasel,weasel,3.71,4.92
+357,mink,mink,5.86,3.24
+358, polecat fitch foulmart foumart Mustela putorius,,,
+359,black-footed ferret | ferret | Mustela nigripes,ferret,4.89,4.11
+360,otter,otter,6.95,4.42
+361,skunk | polecat | wood pussy,skunk,3.78,5.81
+362,badger,badger,4.63,4.35
+363, armadillo,,,
+364,three-toed sloth | ai | Bradypus tridactylus,sloth,4.05,2.9
+365,orangutan | orang | orangutang | Pongo pygmaeus,orangutan,5.74,4.87
+366,gorilla | Gorilla gorilla,gorilla,4.26,4.95
+367,chimpanzee | chimp | Pan troglodytes,chimpanzee,6.39,3.9
+368, gibbon Hylobates lar,,,
+369, siamang Hylobates syndactylus Symphalangus syndactylus,,,
+370,guenon | guenon monkey,monkey,5.82,5.15
+371,patas | hussar monkey | Erythrocebus patas,monkey,5.82,5.15
+372,baboon,baboon,5.55,5.11
+373, macaque,,,
+374, langur,,,
+375,colobus | colobus monkey,monkey,5.82,5.15
+376,proboscis monkey | Nasalis larvatus,monkey,5.82,5.15
+377, marmoset,,,
+378, capuchin ringtail Cebus capucinus,,,
+379,howler monkey | howler,monkey,5.82,5.15
+380,titi | titi monkey,monkey,5.82,5.15
+381,spider monkey | Ateles geoffroyi,spider,3.35,6.91
+382,squirrel monkey | Saimiri sciureus,squirrel,5.71,4.48
+383,Madagascar cat | ring-tailed lemur | Lemur catta,cat,6.95,4.5
+384, indri indris Indri indri Indri brevicaudatus,,,
+385,Indian elephant | Elephas maximus,elephant,6.17,4.23
+386,African elephant | Loxodonta africana,elephant,6.17,4.23
+387,lesser panda | red panda | panda | bear cat | cat bear | Ailurus fulgens,panda,7.55,4.05
+388,giant panda | panda | panda bear | coon bear | Ailuropoda melanoleuca,giant,5.41,5.1
+389, barracouta snoek,,,
+390,eel,eel,4.14,4.79
+391,coho | cohoe | coho salmon | blue jack | silver salmon | Oncorhynchus kisutch,salmon,6.48,3.87
+392,rock beauty | Holocanthus tricolor,rock,5.72,3.14
+393,anemone fish,fish,6.42,3.33
+394, sturgeon,,,
+395, gar garfish garpike billfish Lepisosteus osseus,,,
+396, lionfish,,,
+397,puffer | pufferfish | blowfish | globefish,blowfish,4.62,3.95
+398, abacus,,,
+399, abaya,,,
+400,academic gown | academic robe | judge's robe,academic,6.61,3.32
+401,accordion | piano accordion | squeeze box,accordion,5.26,2.94
+402,acoustic guitar,acoustic,7.1,4.0
+403,aircraft carrier | carrier | flattop | attack aircraft carrier,aircraft,6.3,4.86
+404,airliner,airliner,6.05,4.0
+405,airship | dirigible,airship,5.63,4.88
+406,altar,altar,5.59,4.05
+407,ambulance,ambulance,3.71,5.33
+408,amphibian | amphibious vehicle,amphibian,5.4,3.35
+409,analog clock,clock,5.65,3.35
+410,apiary | bee house,bee,3.68,5.65
+411,apron,apron,5.8,2.9
+412,ashcan | trash can | garbage can | wastebin | ash bin | ash-bin | ashbin | dustbin | trash barrel | trash bin,trash,2.74,3.66
+413,assault rifle | assault gun,assault,2.05,6.8
+414,backpack | back pack | knapsack | packsack | rucksack | haversack,backpack,6.05,3.68
+415,bakery | bakeshop | bakehouse,bakery,6.79,3.86
+416,balance beam | beam,balance,6.84,4.13
+417,balloon,balloon,6.84,3.9
+418,ballpoint | ballpoint pen | ballpen | Biro,ballpoint,5.1,2.46
+419, Band Aid,,,
+420,banjo,banjo,6.35,3.53
+421,bannister | banister | balustrade | balusters | handrail,banister,5.42,2.55
+422, barbell,,,
+423,barber chair,barber,4.89,3.18
+424,barbershop,barbershop,5.37,3.18
+425,barn,barn,6.16,3.57
+426,barometer,barometer,5.0,2.88
+427,barrel | cask,barrel,4.92,3.43
+428,barrow | garden cart | lawn cart | wheelbarrow,garden,7.25,3.71
+429,baseball,baseball,5.79,3.15
+430,basketball,basketball,5.67,4.35
+431, bassinet,,,
+432, bassoon,,,
+433,bathing cap | swimming cap,bathing,6.14,3.23
+434,bath towel,bath,7.0,3.25
+435,bathtub | bathing tub | bath | tub,bathtub,6.26,3.63
+436,beach wagon | station wagon | wagon | estate car | beach waggon | station waggon | waggon,beach,7.21,5.1
+437,beacon | lighthouse | beacon light | pharos,beacon,5.18,4.52
+438,beaker,beaker,5.5,3.79
+439,bearskin | busby | shako,bearskin,4.25,3.95
+440,beer bottle,beer,5.67,4.3
+441,beer glass,beer,5.67,4.3
+442,bell cote | bell cot,bell,5.67,4.7
+443,bib,bib,5.78,3.57
+444,bicycle-built-for-two | tandem bicycle | tandem,bicycle,6.71,3.95
+445,bikini | two-piece,bikini,5.57,5.43
+446,binder | ring-binder,binder,5.16,3.17
+447,binoculars | field glasses | opera glasses,binoculars,5.57,2.58
+448, birdhouse,,,
+449,boathouse,boathouse,6.05,4.83
+450,bobsled | bobsleigh | bob,bobsled,6.0,4.57
+451,bolo tie | bolo | bola tie | bola,tie,5.33,3.1
+452,bonnet | poke bonnet,bonnet,4.89,2.96
+453,bookcase,bookcase,6.1,3.38
+454,bookshop | bookstore | bookstall,bookshop,6.7,4.22
+455, bottlecap,,,
+456,bow,bow,5.46,3.85
+457,bow tie | bow-tie | bowtie,bow,5.46,3.85
+458,brass | memorial tablet | plaque,brass,5.05,4.0
+459,brassiere | bra | bandeau,brassiere,6.0,4.68
+460,breakwater | groin | groyne | mole | bulwark | seawall | jetty,groin,5.1,5.5
+461, breastplate aegis egis,,,
+462,broom,broom,5.5,3.33
+463,bucket | pail,bucket,4.55,2.96
+464,buckle,buckle,5.05,3.76
+465,bulletproof vest,bulletproof,6.2,6.8
+466,bullet train | bullet,bullet,3.45,5.89
+467,butcher shop | meat market,butcher,4.4,4.15
+468,cab | hack | taxi | taxicab,cab,4.81,4.05
+469,caldron | cauldron,cauldron,4.91,4.41
+470,candle | taper | wax light,candle,6.14,3.81
+471,cannon,cannon,4.74,5.09
+472,canoe,canoe,5.76,3.7
+473,can opener | tin opener,can,6.41,3.14
+474,cardigan,cardigan,5.95,3.24
+475,car mirror,car,6.63,4.04
+476,carousel | carrousel | merry-go-round | roundabout | whirligig,carousel,6.7,4.43
+477,carpenter's kit | tool kit,kit,6.1,3.68
+478,carton,carton,5.3,3.41
+479,car wheel,car,6.63,4.04
+480,cash machine | cash dispenser | automated teller machine | automatic teller machine | automated teller | automatic teller | ATM,cash,7.51,6.59
+481,cassette,cassette,5.36,3.77
+482,cassette player,cassette,5.36,3.77
+483,castle,castle,6.42,4.72
+484,catamaran,catamaran,5.29,4.1
+485,CD player,player,5.55,5.95
+486,cello | violoncello,cello,5.75,3.83
+487,cellular telephone | cellular phone | cellphone | cell | mobile phone,cellular,5.68,3.67
+488,chain,chain,4.79,4.05
+489,chainlink fence,fence,5.05,2.7
+490,chain mail | ring mail | mail | chain armor | chain armour | ring armor | ring armour,chain,4.79,4.05
+491,chain saw | chainsaw,chain,4.79,4.05
+492,chest,chest,5.18,4.95
+493, chiffonier commode,,,
+494,chime | bell | gong,chime,6.05,4.1
+495,china cabinet | china closet,cabinet,5.1,3.75
+496,Christmas stocking,stocking,5.33,4.08
+497,church | church building,church,5.21,3.63
+498,cinema | movie theater | movie theatre | movie house | picture palace,cinema,6.86,6.05
+499,cleaver | meat cleaver | chopper,cleaver,4.95,5.1
+500,cliff dwelling,cliff,4.77,5.18
+501,cloak,cloak,5.95,4.1
+502,clog | geta | patten | sabot,clog,2.95,3.23
+503,cocktail shaker,cocktail,6.95,5.6
+504,coffee mug,coffee,7.0,5.1
+505,coffeepot,coffeepot,5.26,3.61
+506,coil | spiral | volute | whorl | helix,coil,4.94,3.72
+507,combination lock,combination,5.47,3.5
+508,computer keyboard | keypad,computer,6.84,4.92
+509,confectionery | confectionary | candy store,candy,7.27,5.03
+510,container ship | containership | container vessel,container,5.7,3.57
+511,convertible,convertible,6.79,4.72
+512,corkscrew | bottle screw,corkscrew,5.26,3.76
+513,cornet | horn | trumpet | trump,horn,5.0,4.22
+514,cowboy boot,cowboy,5.43,4.43
+515,cowboy hat | ten-gallon hat,cowboy,5.43,4.43
+516,cradle,cradle,6.1,3.67
+517, crane,,,
+518,crash helmet,crash,2.9,4.55
+519,crate,crate,4.8,2.72
+520,crib | cot,crib,6.43,4.26
+521, Crock Pot,,,
+522,croquet ball,croquet,5.63,3.5
+523,crutch,crutch,3.64,3.67
+524, cuirass,,,
+525,dam | dike | dyke,dam,4.58,3.67
+526,desk,desk,5.56,2.45
+527,desktop computer,computer,6.84,4.92
+528,dial telephone | dial phone,dial,4.63,3.76
+529,diaper | nappy | napkin,diaper,3.71,3.41
+530,digital clock,digital,6.0,4.36
+531,digital watch,digital,6.0,4.36
+532,dining table | board,dining,6.77,4.7
+533, dishrag dishcloth,,,
+534,dishwasher | dish washer | dishwashing machine,dishwasher,5.32,3.05
+535,disk brake | disc brake,disk,5.24,2.95
+536,dock | dockage | docking facility,dock,5.05,3.44
+537,dogsled | dog sled | dog sleigh,dog,7.0,5.43
+538,dome,dome,5.95,4.42
+539,doormat | welcome mat,doormat,3.68,3.2
+540,drilling platform | offshore rig,platform,5.0,4.18
+541,drum | membranophone | tympan,drum,6.05,4.67
+542, drumstick,,,
+543,dumbbell,dumbbell,4.71,3.54
+544,Dutch oven,oven,6.16,2.95
+545,electric fan | blower,electric,6.1,4.05
+546,electric guitar,electric,6.1,4.05
+547,electric locomotive,electric,6.1,4.05
+548,entertainment center,entertainment,7.59,6.42
+549,envelope,envelope,5.95,2.8
+550,espresso maker,espresso,6.68,5.25
+551,face powder,face,6.36,4.59
+552,feather boa | boa,feather,6.3,3.29
+553,file | file cabinet | filing cabinet,file,5.44,3.4
+554, fireboat,,,
+555,fire engine | fire truck,fire,4.32,6.05
+556,fire screen | fireguard,fire,4.32,6.05
+557,flagpole | flagstaff,flagpole,5.11,3.19
+558,flute | transverse flute,flute,6.29,3.72
+559,folding chair,chair,5.89,2.86
+560,football helmet,football,6.52,5.65
+561,forklift,forklift,4.74,4.17
+562,fountain,fountain,6.26,3.1
+563,fountain pen,fountain,6.26,3.1
+564, four-poster,,,
+565,freight car,freight,4.21,3.78
+566,French horn | horn,horn,5.0,4.22
+567,frying pan | frypan | skillet,pan,5.15,3.05
+568,fur coat,fur,5.65,3.64
+569,garbage truck | dustcart,garbage,2.88,3.84
+570,gasmask | respirator | gas helmet,respirator,3.11,3.73
+571,gas pump | gasoline pump | petrol pump | island dispenser,gas,4.06,4.4
+572, goblet,,,
+573, go-kart,,,
+574,golf ball,golf,5.67,3.68
+575,golfcart | golf cart,golf,5.67,3.68
+576,gondola,gondola,5.48,4.09
+577, gong tam-tam,,,
+578,gown,gown,6.0,3.86
+579,grand piano | grand,grand,6.28,3.75
+580,greenhouse | nursery | glasshouse,greenhouse,6.4,3.6
+581,grille | radiator grille,radiator,4.55,3.67
+582,grocery store | grocery | food market | market,grocery,6.62,3.48
+583,guillotine,guillotine,1.63,5.64
+584,hair slide,hair,6.18,3.71
+585,hair spray,hair,6.18,3.71
+586,half track,track,5.78,3.76
+587,hammer,hammer,5.17,4.56
+588,hamper,hamper,5.15,3.14
+589,hand blower | blow dryer | blow drier | hair dryer | hair drier,hand,5.9,3.98
+590,hand-held computer | hand-held microcomputer,computer,6.84,4.92
+591,handkerchief | hankie | hanky | hankey,handkerchief,5.79,3.05
+592,hard disc | hard disk | fixed disk,hard,4.35,4.5
+593,harmonica | mouth organ | harp | mouth harp,harmonica,6.32,3.2
+594,harp,harp,5.4,3.26
+595,harvester | reaper,reaper,3.41,5.05
+596,hatchet,hatchet,4.43,5.14
+597,holster,holster,4.44,5.35
+598,home theater | home theatre,home,7.48,3.78
+599,honeycomb,honeycomb,6.55,3.95
+600,hook | claw,hook,4.0,4.0
+601, hoopskirt crinoline,,,
+602,horizontal bar | high bar,horizontal,5.86,4.25
+603,horse cart | horse-cart,horse,6.05,4.16
+604,hourglass,hourglass,5.61,3.1
+605, iPod,,,
+606,iron | smoothing iron,iron,5.03,3.24
+607, jack-o'-lantern,,,
+608,jean | blue jean | denim,jean,6.05,2.41
+609,jeep | landrover,jeep,5.53,4.05
+610,jersey | T-shirt | tee shirt,tee,5.4,3.68
+611,jigsaw puzzle,jigsaw,5.05,4.0
+612,jinrikisha | ricksha | rickshaw,rickshaw,5.63,4.3
+613, joystick,,,
+614,kimono,kimono,5.9,3.77
+615,knee pad,knee,4.7,4.25
+616,knot,knot,4.57,3.84
+617,lab coat | laboratory coat,lab,4.57,4.35
+618,ladle,ladle,5.11,2.82
+619,lampshade | lamp shade,lamp,5.74,2.71
+620,laptop | laptop computer,laptop,6.95,4.62
+621,lawn mower | mower,lawn,6.05,2.62
+622,lens cap | lens cover,lens,5.42,2.95
+623,letter opener | paper knife | paperknife,letter,5.68,3.19
+624,library,library,6.33,2.52
+625,lifeboat,lifeboat,5.84,3.96
+626,lighter | light | igniter | ignitor,light,6.55,3.52
+627,limousine | limo,limousine,6.14,5.65
+628,liner | ocean liner,liner,4.79,3.71
+629,lipstick | lip rouge,lipstick,6.35,4.0
+630, Loafer,,,
+631,lotion,lotion,5.52,3.55
+632,loudspeaker | speaker | speaker unit | loudspeaker system | speaker system,loudspeaker,4.67,4.3
+633, loupe jeweler's loupe,,,
+634,lumbermill | sawmill,sawmill,4.57,4.9
+635,magnetic compass,magnetic,6.17,3.55
+636, mailbag postbag,,,
+637,mailbox | letter box,mailbox,6.05,2.29
+638, maillot,,,
+639,maillot | tank suit,tank,4.71,4.32
+640,manhole cover,manhole,4.8,4.09
+641, maraca,,,
+642, marimba xylophone,,,
+643,mask,mask,4.81,3.26
+644, matchstick,,,
+645, maypole,,,
+646,maze | labyrinth,maze,5.84,4.83
+647,measuring cup,cup,5.94,2.6
+648,medicine chest | medicine cabinet,medicine,5.9,4.0
+649,megalith | megalithic structure,structure,5.68,4.0
+650,microphone | mike,microphone,5.11,4.19
+651,microwave | microwave oven,microwave,5.25,4.0
+652,military uniform,military,4.9,5.8
+653,milk can,milk,6.74,2.33
+654,minibus,minibus,4.89,3.56
+655,miniskirt | mini,mini,5.86,3.0
+656,minivan,minivan,4.4,2.95
+657,missile,missile,2.85,5.67
+658,mitten,mitten,5.6,2.33
+659,mixing bowl,bowl,5.67,3.21
+660,mobile home | manufactured home,mobile,5.81,3.76
+661, Model T,,,
+662,modem,modem,5.29,3.55
+663,monastery,monastery,4.75,2.5
+664,monitor,monitor,5.05,3.86
+665,moped,moped,5.0,3.62
+666,mortar,mortar,4.14,4.37
+667, mortarboard,,,
+668,mosque,mosque,4.11,3.0
+669,mosquito net,mosquito,3.12,5.17
+670,motor scooter | scooter,motor,5.64,5.42
+671,mountain bike | all-terrain bike | off-roader,mountain,6.65,4.12
+672,mountain tent,mountain,6.65,4.12
+673,mouse | computer mouse,mouse,4.8,3.38
+674,mousetrap,mousetrap,4.82,4.05
+675,moving van,van,4.43,4.35
+676,muzzle,muzzle,3.95,4.65
+677,nail,nail,4.6,3.05
+678,neck brace,neck,5.44,3.65
+679,necklace,necklace,6.85,3.52
+680,nipple,nipple,5.73,5.88
+681,notebook | notebook computer,notebook,6.05,3.58
+682, obelisk,,,
+683, oboe hautboy hautbois,,,
+684,ocarina | sweet potato,sweet,7.77,4.14
+685, odometer hodometer mileometer milometer,,,
+686,oil filter,oil,3.91,4.25
+687,organ | pipe organ,organ,4.95,3.41
+688,oscilloscope | scope | cathode-ray oscilloscope | CRO,scope,5.17,3.48
+689, overskirt,,,
+690, oxcart,,,
+691,oxygen mask,oxygen,7.25,4.9
+692,packet,packet,5.16,3.62
+693,paddle | boat paddle,paddle,5.38,4.17
+694,paddlewheel | paddle wheel,paddle,5.38,4.17
+695,padlock,padlock,4.8,3.33
+696,paintbrush,paintbrush,6.18,3.33
+697,pajama | pyjama | pj's | jammies,pajama,6.86,4.37
+698,palace,palace,6.1,4.67
+699,panpipe | pandean pipe | syrinx,pipe,4.75,4.11
+700,paper towel,paper,5.42,3.52
+701,parachute | chute,parachute,5.2,4.94
+702,parallel bars | bars,parallel,5.29,2.87
+703,park bench,park,7.0,2.7
+704,parking meter,parking,4.57,3.8
+705,passenger car | coach | carriage,passenger,4.55,3.82
+706,patio | terrace,patio,6.61,2.55
+707, pay-phone pay-station,,,
+708,pedestal | plinth | footstall,pedestal,5.81,3.18
+709,pencil box | pencil case,pencil,5.65,3.11
+710,pencil sharpener,pencil,5.65,3.11
+711,perfume | essence,perfume,6.58,4.28
+712,Petri dish,dish,5.7,3.57
+713, photocopier,,,
+714,pick | plectrum | plectron,pick,5.91,3.62
+715, pickelhaube,,,
+716,picket fence | paling,picket,4.38,3.0
+717,pickup | pickup truck,pickup,4.84,3.85
+718,pier,pier,5.86,3.75
+719,piggy bank | penny bank,piggy,4.71,3.18
+720,pill bottle,pill,4.16,3.73
+721,pillow,pillow,7.0,2.9
+722,ping-pong ball,ball,6.14,3.48
+723, pinwheel,,,
+724,pirate | pirate ship,pirate,4.19,5.26
+725,pitcher | ewer,pitcher,5.7,4.09
+726,plane | carpenter's plane | woodworking plane,plane,5.72,4.91
+727,planetarium,planetarium,6.9,3.72
+728,plastic bag,plastic,4.48,3.36
+729,plate rack,plate,4.8,3.18
+730,plow | plough,plow,5.09,4.04
+731,plunger | plumber's helper,plunger,4.25,3.15
+732,Polaroid camera | Polaroid Land camera,camera,6.61,3.05
+733,pole,pole,5.6,3.05
+734,police van | police wagon | paddy wagon | patrol wagon | wagon | black Maria,police,4.59,5.95
+735,poncho,poncho,5.48,3.74
+736,pool table | billiard table | snooker table,pool,6.78,3.65
+737,pop bottle | soda bottle,pop,6.05,4.45
+738,pot | flowerpot,pot,5.81,4.0
+739,potter's wheel,wheel,5.9,4.0
+740,power drill,power,5.97,5.41
+741,prayer rug | prayer mat,prayer,5.67,4.04
+742,printer,printer,5.65,3.68
+743,prison | prison house,prison,1.94,5.1
+744,projectile | missile,projectile,3.85,3.67
+745,projector,projector,5.42,3.78
+746,puck | hockey puck,puck,4.28,4.64
+747,punching bag | punch bag | punching ball | punchball,bag,5.05,3.43
+748,purse,purse,5.95,3.21
+749,quill | quill pen,pen,5.63,2.75
+750,quilt | comforter | comfort | puff,quilt,5.91,3.11
+751,racer | race car | racing car,racer,5.26,5.86
+752,racket | racquet,racket,3.95,4.33
+753,radiator,radiator,4.55,3.67
+754,radio | wireless,radio,6.0,3.84
+755,radio telescope | radio reflector,radio,6.0,3.84
+756,rain barrel,rain,6.58,3.29
+757,recreational vehicle | RV | R.V.,recreational,6.76,4.9
+758,reel,reel,5.5,3.44
+759,reflex camera,reflex,5.24,4.7
+760,refrigerator | icebox,refrigerator,5.76,3.25
+761,remote control | remote,remote,5.42,3.5
+762,restaurant | eating house | eating place | eatery,restaurant,6.95,4.19
+763,revolver | six-gun | six-shooter,revolver,3.3,6.29
+764,rifle,rifle,4.3,6.14
+765,rocking chair | rocker,chair,5.89,2.86
+766, rotisserie,,,
+767,rubber eraser | rubber | pencil eraser,rubber,4.37,4.14
+768,rugby ball,rugby,5.94,4.1
+769,rule | ruler,rule,4.5,3.67
+770,running shoe,running,6.53,5.52
+771,safe,safe,7.7,3.14
+772,safety pin,safety,7.14,3.8
+773,saltshaker | salt shaker,salt,6.05,4.53
+774, sandal,,,
+775, sarong,,,
+776,sax | saxophone,sax,6.16,3.4
+777, scabbard,,,
+778,scale | weighing machine,scale,5.06,3.8
+779,school bus,school,5.41,4.57
+780,schooner,schooner,4.95,2.29
+781,scoreboard,scoreboard,5.4,4.59
+782,screen | CRT screen,screen,5.55,4.09
+783,screw,screw,5.24,5.4
+784,screwdriver,screwdriver,5.76,3.8
+785,seat belt | seatbelt,seat,5.22,3.0
+786,sewing machine,sewing,5.05,3.45
+787,shield | buckler,shield,5.91,3.65
+788,shoe shop | shoe-shop | shoe store,shoe,5.78,2.4
+789, shoji,,,
+790,shopping basket,basket,5.66,2.48
+791,shopping cart,cart,5.37,3.18
+792,shovel,shovel,4.8,3.5
+793,shower cap,shower,7.19,4.15
+794,shower curtain,shower,7.19,4.15
+795,ski,ski,5.91,6.05
+796,ski mask,ski,5.91,6.05
+797,sleeping bag,bag,5.05,3.43
+798,slide rule | slipstick,slide,5.71,3.3
+799,sliding door,door,5.43,3.19
+800,slot | one-armed bandit,slot,5.2,4.1
+801,snorkel,snorkel,6.0,4.28
+802, snowmobile,,,
+803,snowplow | snowplough,snowplow,5.05,3.39
+804,soap dispenser,soap,7.1,2.62
+805,soccer ball,soccer,5.84,4.68
+806,sock,sock,4.43,3.09
+807,solar dish | solar collector | solar furnace,solar,6.0,3.87
+808, sombrero,,,
+809,soup bowl,soup,7.05,4.24
+810,space bar,space,6.89,3.6
+811,space heater,space,6.89,3.6
+812,space shuttle,space,6.89,3.6
+813,spatula,spatula,5.14,2.86
+814,speedboat,speedboat,7.0,5.65
+815,spider web | spider's web,spider,3.35,6.91
+816,spindle,spindle,4.44,3.55
+817,sports car | sport car,car,6.63,4.04
+818,spotlight | spot,spotlight,5.74,4.95
+819,stage,stage,5.67,3.76
+820,steam locomotive,steam,5.4,4.0
+821,steel arch bridge,steel,4.95,3.86
+822,steel drum,steel,4.95,3.86
+823,stethoscope,stethoscope,5.14,4.56
+824, stole,,,
+825,stone wall,stone,4.81,3.25
+826,stopwatch | stop watch,stopwatch,5.05,4.05
+827,stove,stove,5.63,3.82
+828, strainer,,,
+829,streetcar | tram | tramcar | trolley | trolley car,streetcar,5.44,3.75
+830,stretcher,stretcher,3.1,3.82
+831,studio couch | day bed,studio,6.24,4.79
+832, stupa tope,,,
+833,submarine | pigboat | sub | U-boat,submarine,6.0,4.24
+834,suit | suit of clothes,suit,5.89,3.05
+835,sundial,sundial,5.95,3.22
+836, sunglass,,,
+837,sunglasses | dark glasses | shades,sunglasses,6.72,3.67
+838,sunscreen | sunblock | sun blocker,sunscreen,5.77,3.95
+839,suspension bridge,suspension,4.35,4.57
+840,swab | swob | mop,swab,4.7,2.56
+841,sweatshirt,sweatshirt,6.24,2.56
+842,swimming trunks | bathing trunks,swimming,7.2,5.13
+843,swing,swing,6.95,4.1
+844,switch | electric switch | electrical switch,switch,5.29,3.9
+845,syringe,syringe,3.05,4.81
+846,table lamp,table,5.49,3.0
+847,tank | army tank | armored combat vehicle | armoured combat vehicle,tank,4.71,4.32
+848,tape player,tape,5.5,3.4
+849,teapot,teapot,6.0,3.39
+850,teddy | teddy bear,bear,5.33,4.5
+851,television | television system,television,7.18,4.1
+852,tennis ball,tennis,5.4,3.89
+853,thatch | thatched roof,thatch,5.2,2.8
+854,theater curtain | theatre curtain,theater,6.14,3.73
+855, thimble,,,
+856,thresher | thrasher | threshing machine,machine,5.0,4.39
+857,throne,throne,5.45,5.22
+858,tile roof,tile,5.0,2.89
+859,toaster,toaster,5.8,3.85
+860,tobacco shop | tobacconist shop | tobacconist,tobacco,3.37,5.0
+861,toilet seat,toilet,3.71,4.5
+862,torch,torch,4.5,5.12
+863,totem pole,totem,5.32,4.78
+864,tow truck | tow car | wrecker,tow,5.38,3.75
+865, toyshop,,,
+866,tractor,tractor,5.05,3.73
+867,trailer truck | tractor trailer | trucking rig | rig | articulated lorry | semi,trailer,4.44,2.85
+868,tray,tray,5.14,3.57
+869,trench coat,trench,4.43,3.22
+870,tricycle | trike | velocipede,tricycle,6.14,3.62
+871, trimaran,,,
+872,tripod,tripod,5.23,4.32
+873,triumphal arch,arch,5.8,3.15
+874,trolleybus | trolley coach | trackless trolley,trolley,5.67,3.0
+875,trombone,trombone,5.0,3.43
+876,tub | vat,tub,6.1,3.8
+877, turnstile,,,
+878,typewriter keyboard,typewriter,5.44,2.4
+879,umbrella,umbrella,5.84,3.5
+880, unicycle monocycle,,,
+881,upright | upright piano,upright,5.11,3.29
+882,vacuum | vacuum cleaner,vacuum,5.38,4.63
+883,vase,vase,5.77,3.57
+884,vault,vault,5.84,2.86
+885,velvet,velvet,6.3,4.53
+886,vending machine,vending,5.7,3.62
+887, vestment,,,
+888, viaduct,,,
+889,violin | fiddle,violin,6.56,3.41
+890,volleyball,volleyball,6.27,4.55
+891,waffle iron,waffle,6.75,4.5
+892,wall clock,wall,5.06,2.9
+893,wallet | billfold | notecase | pocketbook,wallet,6.0,4.25
+894,wardrobe | closet | press,wardrobe,6.09,5.16
+895,warplane | military plane,military,4.9,5.8
+896,washbasin | handbasin | washbowl | lavabo | wash-hand basin,basin,5.47,2.77
+897,washer | automatic washer | washing machine,washer,5.16,2.9
+898,water bottle,water,7.0,3.71
+899,water jug,water,7.0,3.71
+900,water tower,water,7.0,3.71
+901,whiskey jug,whiskey,5.55,5.62
+902,whistle,whistle,5.7,3.94
+903,wig,wig,4.48,3.36
+904,window screen,window,6.47,3.27
+905,window shade,window,6.47,3.27
+906,Windsor tie,tie,5.33,3.1
+907,wine bottle,wine,5.85,4.24
+908,wing,wing,6.15,4.32
+909,wok,wok,5.84,3.55
+910,wooden spoon,wooden,5.27,4.0
+911,wool | woolen | woollen,wool,5.38,2.58
+912,worm fence | snake fence | snake-rail fence | Virginia fence,worm,4.86,3.5
+913,wreck,wreck,1.62,4.65
+914, yawl,,,
+915, yurt,,,
+916,web site | website | internet site | site,web,5.68,4.14
+917,comic book,comic,7.5,4.3
+918,crossword puzzle | crossword,crossword,6.58,3.74
+919,street sign,street,5.07,3.45
+920,traffic light | traffic signal | stoplight,traffic,2.18,5.25
+921,book jacket | dust cover | dust jacket | dust wrapper,book,7.05,3.13
+922,menu,menu,6.3,4.17
+923,plate,plate,4.8,3.18
+924,guacamole,guacamole,5.47,4.76
+925, consomme,,,
+926,hot pot | hotpot,hot,5.73,4.76
+927,trifle,trifle,4.8,4.06
+928,ice cream | icecream,ice,6.06,3.3
+929,ice lolly | lolly | lollipop | popsicle,ice,6.06,3.3
+930,French loaf,loaf,5.75,2.45
+931,bagel | beigel,bagel,6.32,3.6
+932,pretzel,pretzel,6.81,5.7
+933,cheeseburger,cheeseburger,7.2,4.58
+934,hotdog | hot dog | red hot,hotdog,6.21,3.85
+935,mashed potato,mashed,4.61,4.15
+936,head cabbage,head,5.86,4.45
+937,broccoli,broccoli,6.0,2.48
+938,cauliflower,cauliflower,5.35,2.29
+939,zucchini | courgette,zucchini,6.3,4.18
+940,spaghetti squash,spaghetti,6.91,4.04
+941,acorn squash,acorn,5.85,4.42
+942,butternut squash,squash,4.28,3.88
+943,cucumber | cuke,cucumber,6.47,3.17
+944,artichoke | globe artichoke,artichoke,5.3,3.5
+945,bell pepper,bell,5.67,4.7
+946, cardoon,,,
+947,mushroom,mushroom,5.61,3.14
+948, Granny Smith,,,
+949,strawberry,strawberry,7.25,4.05
+950,orange,orange,6.81,4.04
+951,lemon,lemon,6.37,4.52
+952,fig,fig,5.23,4.22
+953,pineapple | ananas,pineapple,6.9,4.41
+954,banana,banana,6.71,3.21
+955, jackfruit jak jack,,,
+956,custard apple,custard,5.45,3.5
+957, pomegranate,,,
+958,hay,hay,5.41,2.43
+959, carbonara,,,
+960,chocolate sauce | chocolate syrup,chocolate,7.63,5.14
+961,dough,dough,6.0,4.1
+962,meat loaf | meatloaf,meat,6.62,4.3
+963,pizza | pizza pie,pizza,7.89,4.58
+964, potpie,,,
+965,burrito,burrito,6.65,4.65
+966,red wine,red,5.67,5.02
+967,espresso,espresso,6.68,5.25
+968,cup,cup,5.94,2.6
+969,eggnog,eggnog,6.0,4.27
+970, alp,,,
+971,bubble,bubble,6.43,4.19
+972,cliff | drop | drop-off,cliff,4.77,5.18
+973,coral reef,coral,6.42,3.18
+974, geyser,,,
+975, lakeside lakeshore,,,
+976,promontory | headland | head | foreland,head,5.86,4.45
+977,sandbar | sand bar,sand,6.16,3.43
+978,seashore | coast | seacoast | sea-coast,seashore,7.68,3.0
+979,valley | vale,valley,6.22,2.7
+980,volcano,volcano,4.59,6.7
+981,ballplayer | baseball player,ballplayer,5.26,4.09
+982,groom | bridegroom,groom,6.84,4.35
+983,scuba diver,scuba,5.86,3.86
+984, rapeseed,,,
+985,daisy,daisy,7.48,3.95
+986,yellow lady's slipper | yellow lady-slipper | Cypripedium calceolus | Cypripedium parviflorum,yellow,6.09,3.83
+987,corn,corn,5.95,3.43
+988,acorn,acorn,5.85,4.42
+989,hip | rose hip | rosehip,hip,5.86,3.8
+990,buckeye | horse chestnut | conker,horse,6.05,4.16
+991,coral fungus,coral,6.42,3.18
+992, agaric,,,
+993, gyromitra,,,
+994,stinkhorn | carrion fungus,fungus,2.79,4.67
+995, earthstar,,,
+996,hen-of-the-woods | hen of the woods | Polyporus frondosus | Grifola frondosa,hen,6.14,3.39
+997, bolete,,,
+998,ear | spike | capitulum,ear,5.86,3.5
+999,toilet tissue | toilet paper | bathroom tissue,toilet,3.71,4.5
