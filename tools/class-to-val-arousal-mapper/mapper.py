@@ -15,8 +15,6 @@ with open('data/imagenet-classes-v-a.csv', 'w') as the_file:
 # loop through imagenet classes
 for key, value in imagenet_classes.items():
 
-    found = 0
-
     # split class name in single words
     imagenet_words = re.split(', | ', value)
 
@@ -31,7 +29,6 @@ for key, value in imagenet_classes.items():
         # if found print it in the out file interesting parts
         if not brm_word.empty:
             print(brm_word)
-            found = 1
 
             # prepare the line to print
             string = "{0},{1},{2},{3},{4}\n".format(key, value.replace(",", " |"), brm_word['Word'].values[0],
@@ -39,8 +36,3 @@ for key, value in imagenet_classes.items():
             with open('data/imagenet-classes-v-a.csv', 'a') as the_file:
                 the_file.write(string)
             break
-
-    if not found:
-        string = "{0}, {1},,,\n".format(key, value.replace(",", ""))
-        with open('data/imagenet-classes-v-a.csv', 'a') as the_file:
-            the_file.write(string)
