@@ -1,5 +1,11 @@
+// Seek_Arrive
+// Daniel Shiffman <http://www.shiffman.net>
+
+// The "Vehicle" class
+
 class Vehicle {
-  ArrayList<PVector> history = new ArrayList<PVector>();   // Used to show the trajectory
+  
+  ArrayList<PVector> history = new ArrayList<PVector>();
 
   PVector location;
   PVector velocity;
@@ -10,10 +16,10 @@ class Vehicle {
 
   Vehicle(float x, float y) {
     acceleration = new PVector(0,0);
-    velocity = new PVector(0,-2);
+    velocity = new PVector(0,0);
     location = new PVector(x,y);
     r = 6;
-    maxspeed = 4;
+    maxspeed = 0.3;
     maxforce = 0.1;
   }
 
@@ -40,48 +46,6 @@ class Vehicle {
 
   // A method that calculates a steering force towards a target
   // STEER = DESIRED MINUS VELOCITY
-  void seek(PVector target) {
-    PVector desired = PVector.sub(target,location);  // A vector pointing from the location to the target
-    
-    // Normalize desired and scale to maximum speed
-    desired.normalize();
-    desired.mult(maxspeed);
-    // Steering = Desired minus velocity
-    PVector steer = PVector.sub(desired,velocity);
-    steer.limit(maxforce);  // Limit to maximum steering force
-    
-    applyForce(steer);
-  }
-    
-  void display() {
-    beginShape();
-    stroke(0);
-    strokeWeight(1);
-    noFill();
-    for(PVector v: history) {
-      vertex(v.x,v.y);
-    }
-    endShape();
-    
-    
-    // Draw a triangle rotated in the direction of velocity
-    float theta = velocity.heading2D() + PI/2;
-    fill(127);
-    stroke(0);
-    strokeWeight(1);
-    pushMatrix();
-    translate(location.x,location.y);
-    rotate(theta);
-    beginShape();
-    vertex(0, -r*2);
-    vertex(-r, r*2);
-    vertex(r, r*2);
-    endShape(CLOSE);
-    popMatrix();
-    
-    
-  }
-  
   void arrive(PVector target) {
     PVector desired = PVector.sub(target,location);  // A vector pointing from the location to the target
     float d = desired.mag();
@@ -101,5 +65,34 @@ class Vehicle {
     PVector steer = PVector.sub(desired,velocity);
     steer.limit(maxforce);  // Limit to maximum steering force
     applyForce(steer);
+  }
+  
+  void display() {
+    
+    beginShape();
+    stroke(0);
+    strokeWeight(1);
+    noFill();
+    for(PVector v: history) {
+      vertex(v.x,v.y);
+    }
+    endShape();
+    
+    // Draw a triangle rotated in the direction of velocity
+    float theta = velocity.heading2D() + PI/2;
+    fill(127);
+    stroke(0);
+    strokeWeight(1);
+    pushMatrix();
+    translate(location.x,location.y);
+    rotate(theta);
+    beginShape();
+    vertex(0, -r*2);
+    vertex(-r, r*2);
+    vertex(r, r*2);
+    endShape(CLOSE);
+    popMatrix();
+    
+    
   }
 }

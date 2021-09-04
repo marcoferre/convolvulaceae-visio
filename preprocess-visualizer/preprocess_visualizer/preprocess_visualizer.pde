@@ -15,6 +15,8 @@ int i = 0, cc = 0;
 JSONArray classes_va;
 JSONArray predictions;
 
+PVector pos;
+
 MyPoint p1;
 MyPoint p2;
 MyAxes a1;
@@ -45,6 +47,8 @@ void setup(){
   
   a1 = new MyAxes(width,height);
   a1.plot();
+  
+  pos = new PVector(400, 400);
 
 }
 
@@ -55,7 +59,7 @@ void draw(){
     cc = i/(60*5);
   
   
-  PVector pos = new PVector(400, 400);
+
   a1.plot();
   
   v1.arrive(pos);
@@ -82,12 +86,12 @@ void draw(){
       p2.x = width/2 + myPredictions.getFloat(0) * width/2;
       p2.y = height/2 - myPredictions.getFloat(1) * height/2;
       p2.plot();
+      
       pos = new PVector(width/2 + myPredictions.getFloat(0) * width/2, height/2 - myPredictions.getFloat(1) * height/2);
-      v1.arrive(pos);
-      v1.update();
-      v1.display();
-    }
-    //UPDATE ARRAY    
+
+    }    
   }
-  
+  v1.arrive(pos);
+  v1.update();
+  v1.display();
 }
