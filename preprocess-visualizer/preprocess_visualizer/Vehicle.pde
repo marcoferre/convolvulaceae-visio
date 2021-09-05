@@ -19,7 +19,7 @@ class Vehicle {
     velocity = new PVector(0,0);
     location = new PVector(x,y);
     r = 6;
-    maxspeed = 0.3;
+    maxspeed = 1;
     maxforce = 0.1;
   }
 
@@ -34,7 +34,7 @@ class Vehicle {
     acceleration.mult(0);
     
     history.add(location.get());
-    if (history.size() > 100) {
+    if (history.size() > 150) {
       history.remove(0);
     }
   }
@@ -53,7 +53,7 @@ class Vehicle {
     // --------- 
     // Normalize desired and scale with arbitrary damping within 100 pixels
     desired.normalize();
-    if (d < 100) {
+    if (d < 200) {
       float m = map(d,0,100,0,maxspeed);
       desired.mult(m);
     } else {
@@ -70,29 +70,15 @@ class Vehicle {
   void display() {
     
     beginShape();
-    stroke(0);
+    stroke(color(68, 71, 90));
     strokeWeight(1);
     noFill();
     for(PVector v: history) {
       vertex(v.x,v.y);
     }
     endShape();
-    
-    // Draw a triangle rotated in the direction of velocity
-    float theta = velocity.heading2D() + PI/2;
-    fill(127);
-    stroke(0);
-    strokeWeight(1);
-    pushMatrix();
-    translate(location.x,location.y);
-    rotate(theta);
-    beginShape();
-    vertex(0, -r*2);
-    vertex(-r, r*2);
-    vertex(r, r*2);
-    endShape(CLOSE);
-    popMatrix();
-    
-    
+    noStroke();
+    fill(color(255, 10, 0));
+    circle(location.x, location.y, 15);
   }
 }

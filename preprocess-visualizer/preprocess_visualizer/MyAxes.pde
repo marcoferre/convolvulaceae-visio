@@ -1,6 +1,11 @@
 class MyAxes{
   
   float c_x, c_y;
+  color b1 = color(128, 87, 21);
+  color b2 = color(45, 136, 45);
+  color b3 = color(43, 73, 112);
+  color b4 = color(170, 57, 57);
+  float dim = width/4;
   
   //Constructor
   public MyAxes(float c_x, float c_y){
@@ -10,7 +15,16 @@ class MyAxes{
   
   // ---- Methods
   public void plot(){
-    background(40, 42, 54);
+    background(0);
+    
+    //fill(b4);
+    //rect(0, 0, c_x/2, c_y/2);
+    //fill(b1);
+    //rect(c_x/2, 0, c_x, c_y/2);
+    //fill(b3);
+    //rect(0, c_y/2, c_x/2, c_y);
+    //fill(b2);
+    //rect(c_x/2, c_y/2, c_x, c_y);
   
     //draw axes
     stroke(68, 71, 90);
@@ -29,5 +43,4 @@ class MyAxes{
     textSize(15);
     text("Valence", c_x - 60, c_y/2 - 10); 
   }
-  
 }
