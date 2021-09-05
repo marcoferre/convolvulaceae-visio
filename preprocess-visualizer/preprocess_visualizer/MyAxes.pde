@@ -6,16 +6,18 @@ class MyAxes{
   color b3 = color(43, 73, 112);
   color b4 = color(170, 57, 57);
   float dim = width/4;
-  
+  PImage bg = loadImage("sfondo.gif");
   //Constructor
   public MyAxes(float c_x, float c_y){
     this.c_x = c_x;
     this.c_y = c_y;
   }
   
+
   // ---- Methods
   public void plot(){
-    background(0);
+
+    background(bg);
     
     //fill(b4);
     //rect(0, 0, c_x/2, c_y/2);

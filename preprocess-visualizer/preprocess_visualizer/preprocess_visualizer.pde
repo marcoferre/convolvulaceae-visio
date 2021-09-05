@@ -31,7 +31,7 @@ void setup(){
   predictions = loadJSONArray("../data/predictions.json");
   
   size(1000, 1000, P2D);
-  background(40, 42, 54);
+  //background(40, 42, 54);
   smooth();
   
   v1 = new Vehicle(width/2, height/2);
@@ -39,7 +39,7 @@ void setup(){
   song = new SoundFile(this, "../data/audiofile.wav");
 
   c1 = color(88, 88, 88);
-  c2 = color(232, 237, 86);
+  c2 = color(#2000FA);
 
   p2 = new MyPoint(400,400,20, c2);
   p2.plot();
