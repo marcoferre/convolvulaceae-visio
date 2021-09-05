@@ -22,10 +22,5 @@ class MyPoint{
   public void move(float xoff, float yoff){
     x = x+xoff; 
     y = y+yoff;
-  }
-  
-  public void seek(){
-    
-  }
-  
+  } 
 }
