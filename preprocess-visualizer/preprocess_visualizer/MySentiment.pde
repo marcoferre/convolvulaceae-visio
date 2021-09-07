@@ -18,50 +18,50 @@ class MySentiment{
     
     float centered_y = height/2 - y;
     float centered_x = x - width/2 ;
+
+    println ("centered_x: ",centered_x , " centered_y: " , centered_y);
     
-    print(centered_x + " : " + centered_y + "\n");
-    
-    radians = atan(centered_y/centered_x);
-    
-    if(centered_x < 0 && centered_y < 0){
-      radians = radians + PI;
-    }
+    radians = atan2(centered_y, centered_x);
     
     theta = radians * 180 / PI;
-    print("theta: ", theta, "\n");
+    println("theta: ", theta);
+    
     //normalized radius
     radius = sqrt(sq(centered_x)+sq(centered_y)) / (width/2);
-    print("radius:" ,radius, "\n");
-    //normalized radius
+    println("radius:" ,radius);
+    
     
     //reset size
     size = 60.0;
     size = size * radius;
+    
+    //reset sentiment
+    sentiment =  "I feel empty..." ;
     
     if (size < 20) {
       size = 20;
     }
     
     //set sentiment
-    if (theta >=-13 & theta <= 13){
+    if (theta >-10 & theta <= 10){
       sentiment = "Pleasant";
     }
-    else if (theta >13 & theta <= 26){
+    else if (theta >10 & theta <=25){
       sentiment = "Happy";
     }
-    else if (theta >26 & theta <= 39){
+    else if (theta >25 & theta <= 40){
       sentiment = "Elated";
     }
-    else if (theta >39 & theta <= 52){
+    else if (theta >40 & theta <= 55){
       sentiment = "Enthusiastic";
     }
-    else if (theta >52 & theta <= 65){
+    else if (theta >55 & theta <= 70){
       sentiment = "Excited";
     }
-    else if (theta >65 & theta <= 78){
+    else if (theta >70 & theta <= 85){
       sentiment = "Alert";
     }
-    else if (theta >78 & theta <= 105){
+    else if (theta >85 & theta <= 105){
       sentiment = "Activated";
     }
     else if (theta >105 & theta <= 120){
@@ -76,38 +76,38 @@ class MySentiment{
     else if (theta >150 & theta <= 165){
       sentiment = "Upset";
     }
-    else if (theta >165  & theta <= 195){
+    else if (theta >165){
       sentiment = "Unpleasant";
     }
-    else if (theta >195 & theta <= 210){
+    else if (theta >= -180 & theta <= -170 ){
+      sentiment = "Unpleasant";
+    }
+    else if (theta > -170 & theta <= -150){
       sentiment = "Sad";
     }
-    else if (theta >210 & theta <= 225){
+    else if (theta >-150 & theta <= -135){
       sentiment = "Depressed";
     }
-    else if (theta >225 & theta <= 240){
+    else if (theta >-135 & theta <= -120){
       sentiment = "Sluggish";
     }
-    else if (theta >240 & theta <= 255){
+    else if (theta >-120 & theta <= -105){
       sentiment = "Bored";
     }
-    else if (theta >255 & theta <= 285){
+    else if (theta >-105 & theta <= -85){
       sentiment = "Deactivated";
     }
-    else if (theta >285 & theta <= 300){
+    else if (theta >-85 & theta <= -60){
       sentiment = "Calm";
     }
-    else if (theta >300 & theta <= 315){
+    else if (theta >-60 & theta <= -45){
       sentiment = "Relaxed";
     }
-    else if (theta >315 & theta <= 330){
+    else if (theta >-45 & theta <= -30){
       sentiment = "Serene";
     }
-    else if (theta >330 & theta <= 345){
+    else if (theta >-30 & theta <= -10){
       sentiment = "Contented";
-    }
-    else if (theta >345 & theta <= 360){
-      sentiment = "Pleasant";
     }
   } 
 }

@@ -2,14 +2,17 @@ class MyPoint{
   
   float x,y;
   float size; 
-  color c;
+  color c, classColor;
+  String className;
   
   //Constructor
-  public MyPoint(float x, float y, float size, color c){
+  public MyPoint(float x, float y, float size, color c, String className, color classColor ){
     this.x = x;
     this.y = y;
     this.size = size;
     this.c = c;
+    this.className = className;
+    this.classColor = classColor;
   }
   
   // ---- Methods
