@@ -12,7 +12,7 @@ Our convolvulaceae>visio project wants to create this kind of “double faced”
 
 ## Usage
 
-Execute the convolvulaceae-visio.ipynb Notebook you find in the repository following the instruction and geneterate your own convolvulaceae-visio experience!
+Execute the convolvulaceae-visio.ipynb Notebook you find in the repository following the instruction and generate your own convolvulaceae-visio experience!
 
 ## Input
 
